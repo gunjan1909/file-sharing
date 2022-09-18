@@ -19,3 +19,4 @@ Clone the repository using : `git clone https://github.com/gunjan1909/file-shari
 Install the dependencies using : `npm install`
 
 Run the server using : `npm start`
+Run the development server using : `npm run dev`

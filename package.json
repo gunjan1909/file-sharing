@@ -4,7 +4,7 @@
   "description": "File sharing backend project",
   "main": "index.js",
   "scripts": {
-    "devstart": "nodemon server.js"
+    "dev": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
