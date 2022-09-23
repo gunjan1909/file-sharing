@@ -1,10 +1,10 @@
-##File Sharing App Using Node.js,Express and Mongoose
+## File Sharing App Using Node.js,Express and Mongoose
 
 Simple password protected file sharing app using node, express and mongodb. Currently runs only on local host and not connected to any DB.
 
 [Link to video](https://youtu.be/AHXFMu8xVsc)
 
-####Packages Used:
+#### Packages Used:
 
 - express
 - mongoose
