@@ -7,17 +7,26 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>File Sharing</title>
    <style>
+      body {
+         min-height: 100vh;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         /*gradient background*/
+         background: linear-gradient(45deg, #49a09d, #5f2c82);
+      }
+
       form {
          display: grid;
          gap: .5rem;
          grid-template-columns: auto 1fr;
          max-width: 500px;
          margin: 0 auto;
+         scale: 1.5;
       }
 
       button {
          grid-column: span 2;
-
       }
 
       div {

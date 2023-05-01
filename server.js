@@ -3,6 +3,7 @@ require("dotenv").config();
 const express = require("express");
 const multer = require("multer");
 const mongoose = require("mongoose");
+mongoose.set("strictQuery", true);
 const bcrypt = require("bcrypt");
 const File = require("./models/file");
 
